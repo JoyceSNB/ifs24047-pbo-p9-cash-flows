@@ -10,6 +10,8 @@
 
 - Melakukan inisialisasi proyek
 
+### 11-11-2025
+- Joyce Naibaho sudah menyelesaikan tugas praktikum pbo
 
 ## Syntax
 
