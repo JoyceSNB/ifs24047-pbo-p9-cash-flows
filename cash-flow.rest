@@ -53,9 +53,9 @@ GET {{BaseUrl}}/cash-flows?search=Pribadi
                 "id": "c700f0d8-82bc-4410-af73-68f8f1f247d2",
                 "type": "Outflow",
                 "source": "cash",
-                "label": "alat-mandi",
+                "label": "Perlengkapan-mandi",
                 "amount": 100000,
-                "description": "Membeli kebutuhan alat mandi seperti sabun, odol.",
+                "description": "Membeli kebutuhan perlengkapan mandi seperti sabun, odol.",
                 "createdAt": "2025-11-05T03:24:31.134753",
                 "updatedAt": "2025-11-05T03:24:31.134753"
             },
